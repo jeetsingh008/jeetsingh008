@@ -5,9 +5,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/jeetsingh008">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Digital+Realities;MERN+Stack+Architect;Full-Stack+Innovator;Continuously+Evolving&center=true&width=500&height=50&font=Orbitron&color=00FFFF">
-  </a>
+<a href="https://github.com/jeetsingh008">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Digital+Realities;MERN+Stack+Architect;Full-Stack+Developer;Open+Source+Contributor;Continuously+Evolving&center=true&width=500&height=50&font=Orbitron&color=00FFFF">
+  </a>
 </p>
 
 <p align="center">
