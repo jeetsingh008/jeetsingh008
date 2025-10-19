@@ -1,6 +1,5 @@
 <h2 align="center">
   Welcome, explorer.
-  <img src="https://media.giphy.com/media/xT5LMUPL7fKq4sP22c/giphy.gif" width="30"> </h2>
 <h3 align="center">
   I am Jeet Singh
 </h3>
@@ -22,8 +21,6 @@
 <h3 align="center">🌌 Decoding My Matrix</h3>
 
 <p>
-  <img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd4aXR2ZmZlbTBhbG9tczA1aXQ1azM2djBnd2psNHN5d2V1bm85eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZnRfaWQ9ZDNwWTVDVTFmUVlWUCZjdD1n/M9gC8jR6Vp7j0u0qPq/giphy.gif" alt="Coding gif with futuristic elements" /> </p>
-
 A passionate full-stack developer from India specializing in the MERN stack. I thrive on building responsive, scalable, and intuitive digital experiences. My core mission is to transform complex ideas into elegant, high-performance web applications.
 
 - 🎓 &nbsp; Currently augmenting my knowledge base with a **Master's in Computer Applications** at Birla Institute Of Technology, Mesra.
