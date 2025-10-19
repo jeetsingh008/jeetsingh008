@@ -96,10 +96,10 @@
 
 <p align="center">
   <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsingh008&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
   </a>
 </p>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img alt="Jeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img alt="Jeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/jeetsingh008"><img alt="Jeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/jeetsingh008"><img alt="Jeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <br/>
