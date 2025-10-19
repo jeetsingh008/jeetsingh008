@@ -5,12 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/jeetsingh008">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full-Stack+Web+Developer;Always+Learning+New+Things&center=true&width=450&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor;MERN+Stack+Developer;Full-Stack+Web+Developer;Always+Learning+New+Things&center=true&width=450&height=50">
   </a>
-</p>
-
-<p>
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="horizontal divider">
 </p>
 
 A passionate full-stack developer from India specializing in the MERN stack. I enjoy building responsive, scalable, and user-friendly web applications from front to back.
