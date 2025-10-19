@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <h3 align="center">
-  I am Jeet
+  </ I am Jeet Singh/>
 </h3>
 
 <p align="center">
