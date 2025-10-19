@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/jeetsingh008">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full-Stack+Web+Developer;Always+Learning+New+Things&center=true&width=450&height=50">
   </a>
 </p>
@@ -13,12 +13,12 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="horizontal divider">
 </p>
 
-[cite_start]A passionate full-stack developer from India [cite: 2] specializing in the MERN stack. I enjoy building responsive, scalable, and user-friendly web applications from front to back.
+A passionate full-stack developer from India specializing in the MERN stack. I enjoy building responsive, scalable, and user-friendly web applications from front to back.
 
-- 🎓 &nbsp; [cite_start]I’m currently pursuing a **Master's in Computer Applications** at Birla Institute Of Technology, Mesra[cite: 2].
-- 🔭 &nbsp; [cite_start]I'm passionate about building projects like **Streamy**, a full-stack video hosting backend[cite: 2].
-- 💡 &nbsp; [cite_start]I love bringing ideas to life with `React.js`/`Next.js` and creating robust APIs with `Node.js`/`Express.js`[cite: 2].
-- 🤝 &nbsp; [cite_start]I'm an active open-source contributor, focused on improving performance and security[cite: 2].
+- 🎓 &nbsp; I’m currently pursuing a **Master's in Computer Applications** at Birla Institute Of Technology, Mesra.
+- 🔭 &nbsp; I'm passionate about building projects like **Streamy**, a full-stack video hosting backend.
+- 💡 &nbsp; I love bringing ideas to life with `React.js`/`Next.js` and creating robust APIs with `Node.js`/`Express.js`.
+- 🤝 &nbsp; I'm an active open-source contributor, focused on improving performance and security.
 - 💬 &nbsp; Ask me about web development, JavaScript, or open-source!
 
 <br/>
@@ -76,17 +76,17 @@
 <details>
   <summary><b>Streamy (Video Hosting Backend)</b></summary>
   <br/>
-  - [cite_start]**Description:** A robust backend for a YouTube-like platform supporting video uploads, comments, likes/dislikes, and subscriptions[cite: 2].
-  - [cite_start]**Technology:** Built with `Node.js`, `Express.js`, `MongoDB`, and `Mongoose`[cite: 2].
-  - [cite_start]**Features:** Implemented secure user authentication using `JWT` and `Bcrypt` [cite: 2][cite_start], with a subscription system for content creators[cite: 2].
+  - **Description:** A robust backend for a YouTube-like platform supporting video uploads, comments, likes/dislikes, and subscriptions.
+  - **Technology:** Built with `Node.js`, `Express.js`, `MongoDB`, and `Mongoose`.
+  - **Features:** Implemented secure user authentication using `JWT` and `Bcrypt`, with a subscription system for content creators.
 </details>
 
 <details>
   <summary><b>Mental Health Assessment System</b></summary>
   <br/>
-  - [cite_start]**Description:** A full-stack application that classifies mental health statements into five conditions with 91% accuracy[cite: 2].
-  - [cite_start]**Technology:** Frontend built with `Next.js (TypeScript)` and `Tailwind CSS` [cite: 2][cite_start], featuring animations with `Framer Motion`[cite: 2]. [cite_start]The Python backend uses a `BERT` model[cite: 2].
-  - [cite_start]**Features:** Includes a dynamic dashboard to visualize results for better user engagement[cite: 2].
+  - **Description:** A full-stack application that classifies mental health statements into five conditions with 91% accuracy.
+  - **Technology:** Frontend built with `Next.js (TypeScript)` and `Tailwind CSS`, featuring animations with `Framer Motion`. The Python backend uses a `BERT` model.
+  - **Features:** Includes a dynamic dashboard to visualize results for better user engagement.
 </details>
 
 <br/>
@@ -95,11 +95,11 @@
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/jeetsingh008">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsingh008&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
   </a>
 </p>
 
-<a href="https://github.com/jeetsingh008"><img alt="Jeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<a href="https://github.com/jeetsingh008"><img alt="Jeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/jeetsingh008"><img alt="Jeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeetsingh008&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/jeetsingh008"><img alt="Jeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsingh008&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <br/>
